@@ -1,0 +1,25 @@
+{
+    "sukien": [
+        {
+            "id": 1,
+            "ten": "Triển lãm thú cưng 2024",
+            "ngay": "15/11/2024",
+            "mota": "Một sự kiện lớn với nhiều hoạt động thú vị dành cho các thú cưng và chủ nhân.",
+            "hinh": "images/trienlam.jpg"
+        },
+        {
+            "id": 2,
+            "ten": "Ngày hội thú cưng",
+            "ngay": "01/12/2024",
+            "mota": "Hội chợ thú cưng với nhiều chương trình khuyến mãi và quà tặng hấp dẫn.",
+            "hinh": "images/hoithucung.jpg"
+        },
+        {
+            "id": 3,
+            "ten": "Khóa học chăm sóc thú cưng",
+            "ngay": "10/01/2025",
+            "mota": "Khóa học hướng dẫn cách chăm sóc thú cưng đúng cách từ chuyên gia.",
+            "hinh": "images/pet_care_class.jpg"
+        }
+    ]
+}

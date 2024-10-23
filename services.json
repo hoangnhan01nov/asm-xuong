@@ -1,0 +1,39 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "ten": "Chăm sóc thú cưng",
+      "mota": "Dịch vụ tỉa lông, cắt móng cho chó và mèo, đảm bảo thú cưng của bạn luôn gọn gàng và sạch sẽ.",
+      "gia": "200000vnđ",
+      "hinh": "images/care.jpg"
+    },
+    {
+      "id": 2,
+      "ten": "Làm đẹp",
+      "mota": "Nhuộm màu sáng tạo cho thú cưng của bạn, nhuộm tai, đuôi hoặc toàn thân theo yêu cầu.",
+      "gia": "350000vnđ",
+      "hinh": "images/grooming.jpg"
+    },
+    {
+      "id": 3,
+      "ten": "Dắt thú cưng đi dạo",
+      "mota": "Dịch vụ dắt chó mèo đi dạo, đảm bảo thú cưng của bạn được vận động và thư giãn.",
+      "gia": "150000vnđ/giờ",
+      "hinh": "images/walking.jpg"
+    },
+    {
+      "id": 4,
+      "ten": "Khách sạn cho thú cưng",
+      "mota": "Nơi lưu trú an toàn và thoải mái cho thú cưng của bạn khi bạn đi du lịch hoặc công tác.",
+      "gia": "500000vnđ/ngày",
+      "hinh": "images/pet_hotel.jpg"
+    },
+    {
+      "id": 5,
+      "ten": "Khám sức khỏe định kỳ",
+      "mota": "Dịch vụ khám sức khỏe cho thú cưng bởi bác sĩ thú y chuyên nghiệp, đảm bảo sức khỏe tốt nhất cho chúng.",
+      "gia": "300000vnđ",
+      "hinh": "images/health_check.jpg"
+    }
+  ]
+}

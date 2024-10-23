@@ -1,0 +1,19 @@
+{
+    "gioithieu": [
+        {
+            "id": 1,
+            "tuade": "Công ty chúng tôi",
+            "mota": "Chúng tôi là một công ty chuyên cung cấp các sản phẩm và dịch vụ chăm sóc thú cưng uy tín, chất lượng. Với hơn 10 năm kinh nghiệm trong ngành, chúng tôi luôn mang đến sự hài lòng cho khách hàng."
+        },
+        {
+            "id": 2,
+            "tuade": "Sứ mệnh",
+            "mota": "Sứ mệnh của chúng tôi là nâng cao chất lượng sống cho thú cưng bằng cách cung cấp sản phẩm dinh dưỡng và dịch vụ chăm sóc tốt nhất."
+        },
+        {
+            "id": 3,
+            "tuade": "Tầm nhìn",
+            "mota": "Tầm nhìn của chúng tôi là trở thành thương hiệu hàng đầu trong lĩnh vực chăm sóc thú cưng tại Việt Nam."
+        }
+    ]
+}
