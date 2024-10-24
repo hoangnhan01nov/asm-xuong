@@ -22,7 +22,6 @@ const hiendv = (dv) => {
     <p>${dv.demodv}</p>
     </div>`;
 };
-
 export const showdv = async () => {
     const response = await fetch('./services.json');
     const dv_arr = await response.json();
