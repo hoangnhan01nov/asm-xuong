@@ -62,8 +62,3 @@ const hienSukien = (event) => {
 };
 export { showsp, showdv, showGioithieu };
 export { showSukien };
-if (data) {
-    document.getElementById("data").textContent = data;
-} else {
-    document.getElementById("data").textContent = ""; // Hoặc giá trị mặc định
-}
