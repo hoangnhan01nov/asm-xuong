@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>PET</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <header id="header">
+            <nav>
+                <a href="#top">Trang chủ</a>
+                <a href="#sanpham">Sản phẩm</a>
+                <a href="#dichvu">Dịch vụ</a>
+                <a href="#sukien">Sự kiện</a>
+                <a href="#gioithieu">Giới thiệu</a>
+                <a href="contact.html">Liên hệ</a>
+            </nav>
+
+        </header>
+
+        <img src="images/image5.jpg" style="width:100%" />
+        <main>
+            <section id="sanpham">
+                <h2>Sản phẩm</h2>
+                <div id="data"></div>
+            </section>
+            <section id="dichvu">
+                <h2>Dịch vụ</h2>
+                <div id="data"></div>
+            </section>
+            <section id="sukien">
+                <h2>Sự kiện</h2>
+                <div id="data"></div>
+            </section>
+            <section id="gioithieu">
+                <h2>Giới thiệu</h2>
+                <div id="data"></div>
+            </section>
+
+        </main>
+    </div>
+    <footer>Le Hoang Nhan</footer>
+</body>
+
+</html>
+<script type="module">
+    import { showsp, showdv, showGioithieu, showSukien } from './js/app.js'
+    document.querySelector("#sanpham #data").innerHTML = await showsp();
+    document.querySelector("#dichvu #data").innerHTML = await showdv();
+    document.querySelector("#gioithieu #data").innerHTML = await showGioithieu();
+    document.querySelector("#sukien #data").innerHTML = await showSukien();
+</script>

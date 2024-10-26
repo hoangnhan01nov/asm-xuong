@@ -1,0 +1,117 @@
+{
+  "dichvu": [
+    {
+      "id": "1",
+      "ten": "Chăm sóc thú cưng",
+      "mota": "Dịch vụ tỉa lông, cắt móng cho chó và mèo, đảm bảo thú cưng của bạn luôn gọn gàng và sạch sẽ.",
+      "gia": "200000vnđ",
+      "hinh": "images/care.jpg"
+    },
+    {
+      "id": "2",
+      "ten": "Làm đẹp",
+      "mota": "Nhuộm màu sáng tạo cho thú cưng của bạn, nhuộm tai, đuôi hoặc toàn thân theo yêu cầu.",
+      "gia": "350000vnđ",
+      "hinh": "images/grooming.jpg"
+    },
+    {
+      "id": "3",
+      "ten": "Dắt thú cưng đi dạo",
+      "mota": "Dịch vụ dắt chó mèo đi dạo, đảm bảo thú cưng của bạn được vận động và thư giãn.",
+      "gia": "150000vnđ/giờ",
+      "hinh": "images/walking.jpg"
+    },
+    {
+      "id": "4",
+      "ten": "Khách sạn cho thú cưng",
+      "mota": "Nơi lưu trú an toàn và thoải mái cho thú cưng của bạn khi bạn đi du lịch hoặc công tác.",
+      "gia": "500000vnđ/ngày",
+      "hinh": "images/pet_hotel.jpg"
+    },
+    {
+      "id": "5",
+      "ten": "Khám sức khỏe định kỳ",
+      "mota": "Dịch vụ khám sức khỏe cho thú cưng bởi bác sĩ thú y chuyên nghiệp, đảm bảo sức khỏe tốt nhất cho chúng.",
+      "gia": "300000vnđ",
+      "hinh": "images/health_check.jpg"
+    }
+  ],
+  "gioithieu": [
+    {
+      "id": "1",
+      "tuade": "Công ty chúng tôi",
+      "mota": "Chúng tôi là một công ty chuyên cung cấp các sản phẩm và dịch vụ chăm sóc thú cưng uy tín, chất lượng. Với hơn 10 năm kinh nghiệm trong ngành, chúng tôi luôn mang đến sự hài lòng cho khách hàng."
+    },
+    {
+      "id": "2",
+      "tuade": "Sứ mệnh",
+      "mota": "Sứ mệnh của chúng tôi là nâng cao chất lượng sống cho thú cưng bằng cách cung cấp sản phẩm dinh dưỡng và dịch vụ chăm sóc tốt nhất."
+    },
+    {
+      "id": "3",
+      "tuade": "Tầm nhìn",
+      "mota": "Tầm nhìn của chúng tôi là trở thành thương hiệu hàng đầu trong lĩnh vực chăm sóc thú cưng tại Việt Nam."
+    }
+  ],
+  "sukien": [
+    {
+      "id": "1",
+      "ten": "Triển lãm thú cưng 2024",
+      "ngay": "15/11/2024",
+      "mota": "Một sự kiện lớn với nhiều hoạt động thú vị dành cho các thú cưng và chủ nhân.",
+      "hinh": "images/trienlam.jpg"
+    },
+    {
+      "id": "2",
+      "ten": "Ngày hội thú cưng",
+      "ngay": "01/12/2024",
+      "mota": "Hội chợ thú cưng với nhiều chương trình khuyến mãi và quà tặng hấp dẫn.",
+      "hinh": "images/hoithucung.jpg"
+    },
+    {
+      "id": "3",
+      "ten": "Khóa học chăm sóc thú cưng",
+      "ngay": "10/01/2025",
+      "mota": "Khóa học hướng dẫn cách chăm sóc thú cưng đúng cách từ chuyên gia.",
+      "hinh": "images/pet_care_class.jpg"
+    }
+  ],
+  "sanpham": [
+    {
+      "id": "1",
+      "ten": "Thức ăn hạt mềm Zenith Adult - 1,2kg",
+      "gia": "240000vnđ",
+      "hinh": "images/thucan1.webp"
+    },
+    {
+      "id": "2",
+      "ten": "Zenith chó con - 1,2kg",
+      "gia": "240000vnđ",
+      "hinh": "images/thucan2.webp"
+    },
+    {
+      "id": "3",
+      "ten": "Thức ăn mèo vị cá ngừ Minion Tuna - 480g",
+      "gia": "42000vnđ",
+      "hinh": "images/thucan3.webp"
+    },
+    {
+      "id": "4",
+      "ten": "Minion hải sản - 480g",
+      "gia": "38000đ",
+      "hinh": "images/thucan4.jpg"
+    },
+    {
+      "id": "5",
+      "ten": "Thức ăn mèo vị cá ngừ Minion Adult - 1,3kg",
+      "gia": "105000vnđ",
+      "hinh": "images/thucan5.webp"
+    },
+    {
+      "id": "6",
+      "ten": "Pate hỗn hợp gà Kings Pet lon 380g",
+      "gia": "55000vnđ",
+      "hinh": "images/thucan6.jpg"
+    }
+  ]
+}

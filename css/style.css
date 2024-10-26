@@ -1,0 +1,308 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#header {
+    background: #05161A;
+    text-align: center;
+    padding: 20px 0;
+    top: 0;
+    left: 0;
+}
+
+#header {
+    text-align: center;
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+
+#header a {
+    font-size: 1.2em;
+    color: white;
+    margin: 0 20px;
+
+}
+
+#header a:hover {
+    color: yellow;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+#sanpham {
+    background-color: white;
+    padding: 40px 0
+}
+
+#sanpham h2 {
+    text-align: center;
+    text-transform: none;
+}
+
+#sanpham #data {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#sanpham #data>div {
+    width: 30%;
+    border: 1px spolid black;
+    margin: 15px 0.5%;
+    text-align: center;
+    font-size: 1.3em;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px black;
+
+}
+
+#sanpham #data>div>img {
+    width: 80%;
+    height: 240px;
+}
+
+#sanpham #data>div>p {
+    margin: 15px;
+}
+
+#sanpham #data>div:hover {
+    transform: translateY(-5px);
+}
+
+footer {
+    height: 60px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 1.5em;
+}
+
+#dichvu {
+    background-color: rgb(255, 255, 255);
+    padding: 40px 0
+}
+
+#dichvu h2 {
+    text-align: center;
+    text-transform: none;
+}
+
+#dichvu #data {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#sukien {
+    background-color: rgb(255, 255, 255);
+    padding: 40px 0
+}
+
+#sukien h2 {
+    text-align: center;
+    text-transform: none;
+}
+
+#sukien #data {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#gioithieu {
+    background-color: rgb(255, 255, 255);
+    padding: 40px 0
+}
+
+#gioithieu h2 {
+    text-align: center;
+    text-transform: none;
+}
+
+#gioithieu #data {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#gioithieu {
+    background-color: #f8f8f8;
+    padding: 40px 0;
+}
+
+#gioithieu h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#gioithieu #data {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+
+#gioithieu #data>div {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 30%;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+#gioithieu #data>div:hover {
+    transform: translateY(-10px);
+}
+
+#gioithieu #data h4 {
+    font-size: 1.5em;
+    color: #05161A;
+    margin-bottom: 10px;
+}
+
+#gioithieu #data p {
+    font-size: 1.2em;
+    color: #666;
+    line-height: 1.5;
+}
+
+#dichvu #data>div {
+    width: 30%;
+    border: 1px solid #ddd;
+    margin: 15px 0.5%;
+    text-align: center;
+    font-size: 1.2em;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#dichvu #data>div>img {
+    width: 80%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+#dichvu #data>div>p {
+    margin: 10px 0;
+}
+
+#sukien {
+    background-color: #f9f9f9;
+    padding: 40px 0;
+}
+
+#sukien h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2em;
+    color: #05161A;
+    margin-bottom: 20px;
+}
+
+#sukien #data {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#sukien #data>div {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 30%;
+    text-align: center;
+    margin: 15px 0.5%;
+    transition: transform 0.3s ease;
+}
+
+#sukien #data>div:hover {
+    transform: translateY(-5px);
+}
+
+#sukien #data img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+#sukien #data h4 {
+    font-size: 1.5em;
+    color: #05161A;
+    margin-bottom: 10px;
+}
+
+#sukien #data p {
+    font-size: 1.2em;
+    color: #666;
+    line-height: 1.5;
+}
+
+#lienhe {
+    background-color: #f8f8f8;
+    padding: 40px 0;
+}
+
+#lienhe h2 {
+    text-align: center;
+    font-size: 2em;
+    color: #05161A;
+    margin-bottom: 20px;
+}
+
+#contact-form {
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+#contact-form div {
+    margin-bottom: 15px;
+}
+
+#contact-form label {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+#contact-form input,
+#contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#contact-form button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #05161A;
+    color: white;
+    cursor: pointer;
+}
+
+#contact-form button:hover {
+    background-color: #0b3d45;
+}
